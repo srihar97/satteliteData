@@ -9,9 +9,6 @@ Data Analysis Python Script
 satellite_data_analysis.py: Python script that performs data analysis on the satellite data. The script extracts insights, performs statistical analysis, and prepares the data for visualization.
 Satellite Data
 
-satellite_data.csv: Sample dataset containing information from five satellites. The dataset includes various parameters such as location, velocity, and sensor readings.
-Power BI Report
-
 satellite_data_visualization.pbix: Power BI report file that visualizes the results of the data analysis. This report includes interactive charts, graphs, and other visualizations to help convey the story of the satellite data.
 
 ## **How to Use**
